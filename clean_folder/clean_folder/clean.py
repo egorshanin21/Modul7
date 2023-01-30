@@ -108,5 +108,5 @@ def run():
     current_path = main_path
 
     parse(current_path, main_path)
-
-run()
+if __name__ == '__main__':
+    run()
