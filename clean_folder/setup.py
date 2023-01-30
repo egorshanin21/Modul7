@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='0.0.1',
     description='Clean folder by Python',
-    url='https://github.com/egorshanin21/Module7.git',
+    url='https://github.com/egorshanin21/Modul7',
     author='Egor Shanin',
     author_email='egorshanin21@gmail.com',
     license='MIT',
